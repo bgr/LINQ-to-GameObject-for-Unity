@@ -20,6 +20,11 @@ TestResults
 [Tt]emp/
 [Oo]bj/
 
+# Don't need Packages and ProjectSettings since this is not a project
+
+Packages/
+ProjectSettings/
+
 # VS2013
 
 # Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
